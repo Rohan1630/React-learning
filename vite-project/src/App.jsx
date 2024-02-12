@@ -5,9 +5,10 @@ function App() {
 
   return (
     <>
-    <Try/>
+    <Try  />
     </>
   )
 }
 
 export default App
+
