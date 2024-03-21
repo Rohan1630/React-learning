@@ -1,14 +1,13 @@
-import './App.css'
+import './App.css';
 
 // Removed unused import statement
 import './App.css';
 
 function App() {
   return (
-    <>
-      <h1>Hello</h1>
-    </>
+     <div className="w-full h-screen duration-200"
+     style={{backgroundColor:'red'}}>
+    </div>
   );
 }
-
 export default App
