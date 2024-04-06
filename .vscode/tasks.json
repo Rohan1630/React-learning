@@ -9,6 +9,24 @@
 			"problemMatcher": [],
 			"label": "npm: build - password/passwordmanager",
 			"detail": "vite build"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "bg-changer",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - bg-changer",
+			"detail": "vite build"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "currency Exchange/CurrencyConverter",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - currency Exchange/CurrencyConverter",
+			"detail": "vite build"
 		}
 	]
 }
